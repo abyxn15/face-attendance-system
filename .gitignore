@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+
+attendance.db
+attendance_report.csv
+
+students/
